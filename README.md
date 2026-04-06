@@ -1,99 +1,91 @@
-# 💫 About Me:
-About Me: Interior Designer & 3D Visualization Specialist at Manikaran Design  
+# 👋 Hi, I'm Karan Singh
 
-🔭 I'm currently working on:  
-Designing modern residential and commercial interiors, creating 3D visualization concepts, and developing detailed layout plans that transform empty spaces into functional and aesthetic environments.
+🏠 Interior Designer | 🏗 Architectural Visualization Artist | 🎨 3D Rendering Specialist  
 
-🤝 I'm looking to collaborate on:  
-Interior design projects, architectural visualization, space planning concepts, and creative collaborations involving modern homes, commercial interiors, cafés, and modular solutions.
+Founder of **Manikaran Design** — a studio focused on transforming spaces into beautiful, functional environments through modern interior design and visualization.
 
-🏆 I'm looking for help with:  
-Advanced architectural rendering workflows, real-time visualization tools, and integrating AI tools with architectural design processes.
-
-🌱 I'm currently learning:  
-Advanced 3D rendering techniques, AI-assisted design workflows, and exploring tools like Unreal Engine, ComfyUI, and modern architectural visualization pipelines.
-
-⚡ Ask me about:  
-Interior design concepts, space planning, color psychology, modular furniture design, 3D visualization, and how to transform small spaces into functional modern interiors.
-
-🔥 Fun fact:  
-I can visualize a full interior layout in my mind before even opening the design software — and I love turning empty rooms into dream spaces.
+I specialize in designing residential and commercial interiors and creating photorealistic 3D visualizations that help clients experience spaces before they are built.
 
 ---
 
-# 🏗️ Design Services
+# 🏢 About My Design Studio
 
-✔ Residential Interior Design  
-✔ Commercial Interior Design  
-✔ 3D Visualization & Rendering  
-✔ Modular Kitchen & Wardrobe Design  
-✔ Space Planning & Layout Design  
-✔ Terrace Pergola Design  
+**Manikaran Design**
+
+We design modern, elegant, and functional interiors including:
+
+• Residential Interior Design  
+• Commercial Interior Design  
+• Modular Kitchen & Wardrobe Design  
+• Showroom & Office Interiors  
+• Terrace & Pergola Design  
+• 3D Visualization & Rendering  
+
+Our goal is to combine **aesthetics + functionality + spatial efficiency**.
 
 ---
 
-# 🧰 Design Tools & Software
+# 🧠 Design Philosophy
 
+My design approach focuses on:
+
+✔ Smart Space Planning  
+✔ Modern Minimalist Design  
+✔ Functional Layout Optimization  
+✔ Lighting & Material Balance  
+✔ Realistic 3D Visualization  
+
+Every project goes through the following workflow:
+
+Concept → Space Planning → 3D Modeling → Rendering → Final Design
+
+---
 
 # 🧰 Tools & Technologies
 
 ## 🎨 Design & Visualization Tools
+
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
 ![3ds Max](https://img.shields.io/badge/3ds%20Max-00AEEF?style=for-the-badge&logo=autodesk&logoColor=white)
 ![V-Ray](https://img.shields.io/badge/Vray-FFAA00?style=for-the-badge&logo=vray&logoColor=black)
 ![SketchUp](https://img.shields.io/badge/SketchUp-F7A600?style=for-the-badge&logo=sketchup&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+
+---
 
 ## 📊 Data & Analytics Tools
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
----
-
-# 📂 Design Portfolio
-
-Here you will find:
-
-• Residential interior design projects  
-• Commercial showroom concepts  
-• 3D rendered interior visualizations  
-• Space planning layouts  
-• Material boards & concept designs  
-
-Each repository showcases design workflow including:
-
-Concept → Layout → 3D Visualization → Final Render
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-# 🌐 Connect With Me
+# 🏗 Portfolio Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:urwillrana345@gmail.com)
+Here you will find repositories showcasing:
 
----
+🏠 Residential Interior Designs  
+🏢 Commercial Interior Concepts  
+🍽 Cafe & Restaurant Interiors  
+🛏 Luxury Bedroom Designs  
+🍳 Modular Kitchen Concepts  
+🏬 Showroom Interior Visualization  
 
-# 🏢 Brand
+Each project repository includes:
 
-**Manikaran Design**  
-Modern Interior Design & Visualization Studio
-
-Transforming spaces into beautiful, functional environments.
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=dark&layout=compact)
+• Floor plans  
+• 3D models  
+• High-quality renders  
+• Material boards  
+• Concept explanation  
 
 ---
 
-# 👁️ Profile Views
+# 📂 Example Project Structure
 
-![](https://visitcount.itsvg.in/api?id=YOUR_USERNAME&icon=0&color=0)
+Each project follows a professional design portfolio structure:
