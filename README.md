@@ -34,10 +34,11 @@ I can visualize a full interior layout in my mind before even opening the design
 
 # 🧰 Design Tools & Software
 
-![SketchUp](https://img.shields.io/badge/SketchUp-F7A600?style=for-the-badge&logo=sketchup&logoColor=white)
+
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
-![Lumion](https://img.shields.io/badge/Lumion-0099FF?style=for-the-badge&logo=lumion&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![3ds Max](https://img.shields.io/badge/3ds%20Max-00AEEF?style=for-the-badge&logo=autodesk&logoColor=white)
+![V-Ray](https://img.shields.io/badge/Vray-FFAA00?style=for-the-badge&logo=vray&logoColor=black)
+![SketchUp](https://img.shields.io/badge/SketchUp-F7A600?style=for-the-badge&logo=sketchup&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
