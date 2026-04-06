@@ -35,6 +35,9 @@ I can visualize a full interior layout in my mind before even opening the design
 # 🧰 Design Tools & Software
 
 
+# 🧰 Tools & Technologies
+
+## 🎨 Design & Visualization Tools
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
 ![3ds Max](https://img.shields.io/badge/3ds%20Max-00AEEF?style=for-the-badge&logo=autodesk&logoColor=white)
 ![V-Ray](https://img.shields.io/badge/Vray-FFAA00?style=for-the-badge&logo=vray&logoColor=black)
@@ -42,6 +45,13 @@ I can visualize a full interior layout in my mind before even opening the design
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+## 📊 Data & Analytics Tools
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ---
 
 # 📂 Design Portfolio
